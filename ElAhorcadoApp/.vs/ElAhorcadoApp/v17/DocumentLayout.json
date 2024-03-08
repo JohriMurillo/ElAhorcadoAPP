@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\johri\\Desktop\\.NET\\ElAhorcadoApp\\",
+  "WorkspaceRootPath": "C:\\Users\\anela\\ElAhorcadoAPP\\ElAhorcadoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johri\\Desktop\\.NET\\ElAhorcadoApp\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{407451E5-54B6-451F-8FE2-EFF4EEF16292}|ElAhorcadoApp.csproj|c:\\users\\anela\\elahorcadoapp\\elahorcadoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407451E5-54B6-451F-8FE2-EFF4EEF16292}|ElAhorcadoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johri\\Desktop\\.NET\\ElAhorcadoApp\\InterfazUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:InterfazUsuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{407451E5-54B6-451F-8FE2-EFF4EEF16292}|ElAhorcadoApp.csproj|c:\\users\\anela\\elahorcadoapp\\elahorcadoapp\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407451E5-54B6-451F-8FE2-EFF4EEF16292}|ElAhorcadoApp.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,24 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "InterfazUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\johri\\Desktop\\.NET\\ElAhorcadoApp\\InterfazUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\anela\\ElAhorcadoAPP\\ElAhorcadoApp\\InterfazUsuario.cs",
               "RelativeDocumentMoniker": "InterfazUsuario.cs",
-              "ToolTip": "C:\\Users\\johri\\Desktop\\.NET\\ElAhorcadoApp\\InterfazUsuario.cs",
+              "ToolTip": "C:\\Users\\anela\\ElAhorcadoAPP\\ElAhorcadoApp\\InterfazUsuario.cs",
               "RelativeToolTip": "InterfazUsuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-08T16:51:34.863Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-08T16:51:34.863Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\johri\\Desktop\\.NET\\ElAhorcadoApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\anela\\ElAhorcadoAPP\\ElAhorcadoApp\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\johri\\Desktop\\.NET\\ElAhorcadoApp\\Program.cs",
+              "ToolTip": "C:\\Users\\anela\\ElAhorcadoAPP\\ElAhorcadoApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAABFAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAABSAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T16:41:47.914Z",
               "EditorCaption": ""

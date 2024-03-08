@@ -24,6 +24,7 @@ class Program
         if (intentosRestantes > 0)
         {
             InterfazUsuario.MostrarMensaje("¡Has adivinado la palabra!");
+            Console.WriteLine("Hola soy cristina y estoy realizando la practica");
         }
         else
         {
