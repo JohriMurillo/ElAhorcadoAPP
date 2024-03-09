@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ElAhorcadoApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d9f1431ffb477f67e3bf9b40262f4056f1b4ca03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+051ca33780b723ef827f34af972577846dfad387")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElAhorcadoApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElAhorcadoApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{407451E5-54B6-451F-8FE2-EFF4EEF16292}|ElAhorcadoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{407451E5-54B6-451F-8FE2-EFF4EEF16292}|ElAhorcadoApp.csproj|c:\\users\\anela\\elahorcadoapp\\elahorcadoapp\\juegoahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{407451E5-54B6-451F-8FE2-EFF4EEF16292}|ElAhorcadoApp.csproj|solutionrelative:juegoahorcado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{407451E5-54B6-451F-8FE2-EFF4EEF16292}|ElAhorcadoApp.csproj|c:\\users\\anela\\elahorcadoapp\\elahorcadoapp\\interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{407451E5-54B6-451F-8FE2-EFF4EEF16292}|ElAhorcadoApp.csproj|solutionrelative:interfazusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,17 +22,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "JuegoAhorcado.cs",
+              "DocumentMoniker": "C:\\Users\\anela\\ElAhorcadoAPP\\ElAhorcadoApp\\JuegoAhorcado.cs",
+              "RelativeDocumentMoniker": "JuegoAhorcado.cs",
+              "ToolTip": "C:\\Users\\anela\\ElAhorcadoAPP\\ElAhorcadoApp\\JuegoAhorcado.cs",
+              "RelativeToolTip": "JuegoAhorcado.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T22:54:22.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "InterfazUsuario.cs",
               "DocumentMoniker": "C:\\Users\\anela\\ElAhorcadoAPP\\ElAhorcadoApp\\InterfazUsuario.cs",
               "RelativeDocumentMoniker": "InterfazUsuario.cs",
               "ToolTip": "C:\\Users\\anela\\ElAhorcadoAPP\\ElAhorcadoApp\\InterfazUsuario.cs",
               "RelativeToolTip": "InterfazUsuario.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T16:51:34.863Z"
             },
@@ -40,7 +56,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\anela\\ElAhorcadoAPP\\ElAhorcadoApp\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAABSAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-08T16:41:47.914Z",
               "EditorCaption": ""

@@ -4,7 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        string[] palabras = { "manzana", "banana", "naranja", "sandia", "pera" };
+        string[] palabras = { "manzana", "banana", "naranja", "sandia", "mono","perro","loro"};
         Random random = new Random();
         string palabraSeleccionada = palabras[random.Next(palabras.Length)];
 
@@ -24,7 +24,7 @@ class Program
         if (intentosRestantes > 0)
         {
             InterfazUsuario.MostrarMensaje("¡Has adivinado la palabra!");
-            Console.WriteLine("Hola soy cristina y estoy realizando la practica");
+            Console.WriteLine("Hola soy cristina  8/03/2024");
         }
         else
         {
